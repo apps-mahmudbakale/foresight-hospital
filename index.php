@@ -49,7 +49,7 @@
 	<header id="header" class="fixed-top">
 		<div class="container d-flex align-items-center">
 
-			<a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt=""></a>
+			<a href="index.html" class="logo mr-auto"><img src="assets/img/logos.png" alt=""></a>
 			
 
 			<nav class="nav-menu d-none d-lg-block">
