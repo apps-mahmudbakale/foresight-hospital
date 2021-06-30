@@ -96,7 +96,7 @@
         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon"><i class="icofont-heart-beat"></i></div>
           <h4 class="title"><a href="">Clinics</a></h4>
-          <p class="description"><ul style="list-style-type: square;">
+          <p class="description"><ul style="list-style-type: none;">
             <li>General Out Patient Clinics</li>
             <li>Specialty Clinic</li>
             <li>Ante-natal Clinic</li>
@@ -108,7 +108,7 @@
         <div class="icon"><i class="icofont-drug"></i></div>
         <h4 class="title"><a href="">Sugery</a></h4>
         <p class="description">
-          <ul style="list-style-type: square;">
+          <ul style="list-style-type: none;">
             <li>General Surgery</li> 
             <li>Pediatric Surgery</li>
             <li>Plastic Surgery</li>
@@ -121,7 +121,7 @@
         <div class="icon"><i class="icofont-dna-alt-2"></i></div>
         <h4 class="title"><a href="">Clinical Medicine</a></h4>
         <p class="description">
-          <ul style="list-style-type: square;">
+          <ul style="list-style-type: none;">
            <li>Cardiology</li>
            <li>Gastroenterology</li>
            <li>Endocrinology</li>
@@ -136,7 +136,7 @@
       <div class="icon"><i class="icofont-heartbeat"></i></div>
       <h4 class="title"><a href="">Diagnostic Services</a></h4>
       <p class="description">
-        <ul style="list-style-type: square;">
+        <ul style="list-style-type: none;">
           <li>MRI Scan</li> 
           <li>CT Scan</li>
           <li>Digital X-Ray</li>
@@ -152,7 +152,7 @@
       <div class="icon"><i class="icofont-disabled"></i></div>
       <h4 class="title"><a href="">Pharmacy</a></h4>
       <p class="description">
-        <ul style="list-style-type: square;">
+        <ul style="list-style-type: none;">
           <li>We are open 24/7</li>
           <li>Variety of drugs in stock</li>
         </ul>
@@ -161,8 +161,8 @@
     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
       <div class="icon"><i class="icofont-autism"></i></div>
       <h4 class="title"><a href="">Laboratory Investigation</a></h4>
-      <p class="description text-justify">
-        <ul style="list-style-type: square;">
+      <p class="description">
+        <ul style="list-style-type: none;">
           <li>We open 24/7</li> 
           <li>We do test based on request</li> 
           <li>We also receive samples from other hospital</li> 
