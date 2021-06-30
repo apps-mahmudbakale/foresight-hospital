@@ -96,85 +96,74 @@
         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon"><i class="icofont-heart-beat"></i></div>
           <h4 class="title"><a href="">Clinics</a></h4>
-          <p class="description"><ul style="list-style-type: none;">
-            <li>General Out Patient Clinics</li>
-            <li>Specialty Clinic</li>
-            <li>Ante-natal Clinic</li>
-            <li>Fertility Clinics</li>
-          </ul>
+          <p class="description">
+            <p>General Out Patient Clinics</p>
+            <p>Specialty Clinic</p>
+            <p>Ante-natal Clinic</p>
+            <p>Fertility Clinics</p>
+          </p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+          <div class="icon"><i class="icofont-drug"></i></div>
+          <h4 class="title"><a href="">Sugery</a></h4>
+          <p class="description">
+            <p>General Surgery</p> 
+            <p>Pediatric Surgery</p>
+            <p>Plastic Surgery</p>
+            <p>Neuro Surgery</p>
+            <p>Obstetrics and Gynecology</p>
+          </p>
+        </div>
+        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+          <div class="icon"><i class="icofont-dna-alt-2"></i></div>
+          <h4 class="title"><a href="">Clinical Medicine</a></h4>
+          <p class="description">
+           <p>Cardiology</p>
+           <p>Gastroenterology</p>
+           <p>Endocrinology</p>
+           <p>Nephrology</p>
+           <p>Oncology</p>
+           <p>Dermatology</p>
+           <p>Psychiatry</p>
+         </p>
+       </div>
+       <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+        <div class="icon"><i class="icofont-heartbeat"></i></div>
+        <h4 class="title"><a href="">Diagnostic Services</a></h4>
+        <p class="description">
+          <p>MRI Scan</p> 
+          <p>CT Scan</p>
+          <p>Digital X-Ray</p>
+          <p>Digital Mammography</p>
+          <p>Ultrasound</p>
+          <p>Echo Cardiograph</p>
+          <p>Endoscopy</p>
+          <p>Resting And Stress ECG</p>
         </p>
       </div>
       <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-        <div class="icon"><i class="icofont-drug"></i></div>
-        <h4 class="title"><a href="">Sugery</a></h4>
+        <div class="icon"><i class="icofont-disabled"></i></div>
+        <h4 class="title"><a href="">Pharmacy</a></h4>
         <p class="description">
-          <ul style="list-style-type: none;">
-            <li>General Surgery</li> 
-            <li>Pediatric Surgery</li>
-            <li>Plastic Surgery</li>
-            <li>Neuro Surgery</li>
-            <li>Obstetrics and Gynecology</li>
-          </ul>
+          <p>We are open 24/7</p>
+          <p>Variety of drugs in stock</p>
         </p>
       </div>
       <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
-        <div class="icon"><i class="icofont-dna-alt-2"></i></div>
-        <h4 class="title"><a href="">Clinical Medicine</a></h4>
+        <div class="icon"><i class="icofont-autism"></i></div>
+        <h4 class="title"><a href="">Laboratory Investigation</a></h4>
         <p class="description">
-          <ul style="list-style-type: none;">
-           <li>Cardiology</li>
-           <li>Gastroenterology</li>
-           <li>Endocrinology</li>
-           <li>Nephrology</li>
-           <li>Oncology</li>
-           <li>Dermatology</li>
-           <li>Psychiatry</li>
-         </ul>
-       </p>
-     </div>
-     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
-      <div class="icon"><i class="icofont-heartbeat"></i></div>
-      <h4 class="title"><a href="">Diagnostic Services</a></h4>
-      <p class="description">
-        <ul style="list-style-type: none;">
-          <li>MRI Scan</li> 
-          <li>CT Scan</li>
-          <li>Digital X-Ray</li>
-          <li>Digital Mammography</li>
-          <li>Ultrasound</li>
-          <li>Echo Cardiograph</li>
-          <li>Endoscopy</li>
-          <li>Resting And Stress ECG</li>
-        </ul>
-      </p>
+          <p>We open 24/7</p> 
+          <p>We do test based on request</p> 
+          <p>We also receive samples from other hospital</p> 
+        </p>
+      </div>
     </div>
-    <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-      <div class="icon"><i class="icofont-disabled"></i></div>
-      <h4 class="title"><a href="">Pharmacy</a></h4>
-      <p class="description">
-        <ul style="list-style-type: none;">
-          <li>We are open 24/7</li>
-          <li>Variety of drugs in stock</li>
-        </ul>
-      </p>
-    </div>
-    <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
-      <div class="icon"><i class="icofont-autism"></i></div>
-      <h4 class="title"><a href="">Laboratory Investigation</a></h4>
-      <p class="description">
-        <ul style="list-style-type: none;">
-          <li>We open 24/7</li> 
-          <li>We do test based on request</li> 
-          <li>We also receive samples from other hospital</li> 
-        </ul>
-      </p>
-    </div>
-  </div>
-  <p><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
+    <p><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
 
-  <p><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
-  <p> <b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
-</div>
+    <p><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
+    <p> <b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
+  </div>
 </section><!-- End Services Section -->
 </main><!-- End #main -->
 
