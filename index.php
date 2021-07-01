@@ -28,45 +28,14 @@
 
 	<link rel="stylesheet" href="fontawesome-free/css/all.min.css">
 	<link href="assets/css/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 	
 </head>
 
 <body>
 
-	<!-- ======= Top Bar ======= -->
-	<div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
-		<div class="container d-flex align-items-center justify-content-between">
-			<div class="d-flex align-items-center">
-				<i class="icofont-clock-time"></i> Monday - Saturday, 8AM to 10PM
-			</div>
-			<div class="d-flex align-items-center">
-				<i class="icofont-phone"></i> Call us now +234 (0)7044924324
-			</div>
-		</div>
-	</div>
-
-	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top">
-		<div class="container d-flex align-items-center">
-
-			<a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt=""></a>
-			
-
-			<nav class="nav-menu d-none d-lg-block">
-				<ul>
-					<li class="active"><a href="index.php"> <i class="fa fa-home"></i> Home</a></li>
-					<li><a href="about.php"><i class="fa fa-question-circle"></i> About</a></li>
-					<li><a href="services.php"><i class="fa fa-cogs"></i> Services</a></li>
-					<li><a href="doctors.php"><i class="fa fa-users"></i> Doctors</a></li>
-					<li><a href="#doctors"><i class="fa fa-comments"></i> Blog</a></li>
-					<li><a href="#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
-
-				</ul>
-			</nav><!-- .nav-menu -->
-
-		</div>
-	</header><!-- End Header -->
+	<?php include 'inc/header.inc.php'; ?>
 
 	<!-- ======= Hero Section ======= -->
 	<section id="hero">
@@ -78,16 +47,26 @@
 
 				<!-- Slide 1 -->
 				<div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
-
+					<div class="container">
+						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<p>Making our client happy by delivering effective and efficient care</p>
+					</div>
 				</div>
 
 				<!-- Slide 2 -->
 				<div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
-					
+					<div class="container">
+						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<p>Making our client happy by delivering effective and efficient care</p>
+					</div>
 				</div>
 
 				<!-- Slide 3 -->
 				<div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+					<div class="container">
+						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<p>Making our client happy by delivering effective and efficient care</p>
+					</div>
 				</div>
 
 			</div>
@@ -195,7 +174,7 @@
 
 				<div class="section-title">
 					<h2>Gallery</h2>
-					<<!-- p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+					<!-- p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
 				</div>
 
 				<div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
@@ -250,7 +229,7 @@
 								</div>
 							</div>
 						</div>
-						<p> Closing note: making our client happy by delivering effective and efficient care</p>
+						<p> Closing note: c</p>
 					</div>
 
 					<div class="col-lg-6">
@@ -286,20 +265,11 @@
 
 			</div>
 		</section><!-- End Contact Section -->
-
+		<a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+			<i class="fas fa-whatsapp my-float"></i>
+		</a>
 	</main><!-- End #main -->
-	<!-- ======= Footer ======= -->
-	<footer id="footer">
-		<div class="container">
-			<div class="copyright">
-				&copy; Copyright <strong><span>Foresight Specialist Clinics and Diagnostic Services</span></strong>. All Rights Reserved
-			</div>
-			<div class="credits">
-
-				Designed by <a href="">Ihmami Tech Solution</a>
-			</div>
-		</div>
-	</footer><!-- End Footer -->
+	<?php include 'inc/footer.inc.php'; ?>
 	<div id="preloader"></div>
 	<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
