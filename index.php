@@ -264,7 +264,7 @@
 
 			</div>
 		</section><!-- End Contact Section -->
-		<a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+		<a href="https://api.whatsapp.com/send?phone=+23480389697675&text=Hello%21%20Mahmud Bakale" class="float" target="_blank">
 			<i class="fa fa-whatsapp my-float"></i>
 		</a>
 	</main><!-- End #main -->
