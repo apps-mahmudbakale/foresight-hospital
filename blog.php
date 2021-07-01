@@ -5,7 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Foresight Specialist Clinic and Diagnostic Services | Services</title>
+  <title>Foresight Specialist Clinic and Diagnostic Services | Blog</title>
+  <meta content="" name="description">
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -28,7 +29,7 @@
 
   <link rel="stylesheet" href="fontawesome-free/css/all.min.css">
   <link href="assets/css/style.css" rel="stylesheet">
-
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -40,7 +41,7 @@
         <i class="icofont-clock-time"></i> Monday - Saturday, 8AM to 10PM
       </div>
       <div class="d-flex align-items-center">
-        <i class="icofont-phone"></i> Call us now +234 (0)7044924324
+        <i class="icofont-phone"></i> Call us now +1 5589 55488 55
       </div>
     </div>
   </div>
@@ -54,80 +55,29 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Our Doctors</h2>
+          <h2>Blog Page</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
-            <li>Our Doctors</li>
+            <li><a href="index.html">Home</a></li>
+            <li>Blog Page</li>
           </ol>
         </div>
 
       </div>
     </section><!-- End Breadcrumbs Section -->
-    <!-- ======= Doctors Section ======= -->
-    <section id="doctors" class="doctors section-bg">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Doctors</h2>
-          <p>Our Respected and Caring Doctors</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/MD.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Shamsuddeen Aliyu: MBBS, Msc, PhD</h4>
-                <span>MD/CEO</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/CCO.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr Jalaludden M. Bashir: MBBS</h4>
-                <span>Consultant Cardiologist </span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr Chuks Okolouta : MBBS </h4>
-                <span>Medical Officer</span>
-              </div>
-            </div>
+    <section class="inner-page">
+      <div class="container">
+        <div class="card mb-4">
+          <a href="#!"><img class="card-img-top" src="https://dummyimage.com/850x350/dee2e6/6c757d.jpg" alt="..." /></a>
+          <div class="card-body">
+            <div class="small text-muted">January 1, 2021</div>
+            <h2 class="card-title">Featured Post Title</h2>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
+            <a class="btn btn-primary" href="#!">Read more →</a>
           </div>
         </div>
-
       </div>
-    </section><!-- End Doctors Section -->     
+    </section>
     <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
       <i class="fa fa-whatsapp my-float"></i>
     </a>

@@ -45,157 +45,142 @@
     </div>
   </div>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center">
+  <?php include 'inc/header.inc.php' ?>
 
-      <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt=""></a>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <h1 class="logo mr-auto"><a href="index.html">Medicio</a></h1> -->
+  <main id="main">
 
-      <nav class="nav-menu d-none d-lg-block">
-       <ul>
-        <li><a href="index.php"> <i class="fa fa-home"></i> Home</a></li>
-        <li><a href="about.php"><i class="fa fa-question-circle"></i> About</a></li>
-        <li class="active"><a href="services.php"><i class="fa fa-cogs"></i> Services</a></li>
-        <li><a href="doctors.php"><i class="fa fa-users"></i> Doctors</a></li>
-        <li><a href="#blog"><i class="fa fa-comments"></i> Blog</a></li>
-        <li><a href="index.php#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
+    <!-- ======= Breadcrumbs Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
 
-      </ul>
-    </nav><!-- .nav-menu -->
-  </div>
-</header><!-- End Header -->
-
-<main id="main">
-
-  <!-- ======= Breadcrumbs Section ======= -->
-  <section class="breadcrumbs">
-    <div class="container">
-
-      <div class="d-flex justify-content-between align-items-center">
-        <h2>Our Services</h2>
-        <ol>
-          <li><a href="index.php">Home</a></li>
-          <li>Our Services</li>
-        </ol>
-      </div>
-
-    </div>
-  </section><!-- End Breadcrumbs Section -->
-  <!-- ======= Services Section ======= -->
-  <section id="services" class="services services">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-title">
-        <h2>Services</h2>
-
-      </div>
-
-      <div class="row">
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
-          <div class="icon"><i class="icofont-heart-beat"></i></div>
-          <h4 class="title"><a href="">Clinics</a></h4>
-          <p class="description">
-            <p>General Out Patient Clinics</p>
-            <p>Specialty Clinic</p>
-            <p>Ante-natal Clinic</p>
-            <p>Fertility Clinics</p>
-          </p>
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Our Services</h2>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Our Services</li>
+          </ol>
         </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-          <div class="icon"><i class="icofont-drug"></i></div>
-          <h4 class="title"><a href="">Sugery</a></h4>
-          <p class="description">
-            <p>General Surgery</p> 
-            <p>Pediatric Surgery</p>
-            <p>Plastic Surgery</p>
-            <p>Neuro Surgery</p>
-            <p>Obstetrics and Gynecology</p>
-          </p>
+
+      </div>
+    </section><!-- End Breadcrumbs Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Services</h2>
+
         </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
-          <div class="icon"><i class="icofont-dna-alt-2"></i></div>
-          <h4 class="title"><a href="">Clinical Medicine</a></h4>
-          <p class="description">
-           <p>Cardiology</p>
-           <p>Gastroenterology</p>
-           <p>Endocrinology</p>
-           <p>Nephrology</p>
-           <p>Oncology</p>
-           <p>Dermatology</p>
-           <p>Psychiatry</p>
-         </p>
-       </div>
-       <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
-        <div class="icon"><i class="icofont-heartbeat"></i></div>
-        <h4 class="title"><a href="">Diagnostic Services</a></h4>
-        <p class="description">
-          <p>MRI Scan</p> 
-          <p>CT Scan</p>
-          <p>Digital X-Ray</p>
-          <p>Digital Mammography</p>
-          <p>Ultrasound</p>
-          <p>Echo Cardiograph</p>
-          <p>Endoscopy</p>
-          <p>Resting And Stress ECG</p>
-        </p>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon"><i class="icofont-heart-beat"></i></div>
+            <h4 class="title"><a href="">Clinics</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style-type: none;">
+
+                <li><i class="fa fa-chevron-right"></i> General Out Patient Clinics</li>
+                <li><i class="fa fa-chevron-right"></i> Specialty Clinic</li>
+                <li><i class="fa fa-chevron-right"></i> Ante-natal Clinic</li>
+                <li><i class="fa fa-chevron-right"></i> Fertility Clinics</li>
+              </ul>
+            </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon"><i class="icofont-drug"></i></div>
+            <h4 class="title"><a href="">Sugery</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style-type: none;">
+                <li><i class="fa fa-chevron-right"></i> General Surgery</li> 
+                <li><i class="fa fa-chevron-right"></i> Pediatric Surgery</li>
+                <li><i class="fa fa-chevron-right"></i> Plastic Surgery</li>
+                <li><i class="fa fa-chevron-right"></i> Neuro Surgery</li>
+                <li><i class="fa fa-chevron-right"></i> Obstetrics and Gynecology</li>
+              </ul>
+            </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="icofont-dna-alt-2"></i></div>
+            <h4 class="title"><a href="">Clinical Medicine</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style-type: none;">
+                <li><i class="fa fa-chevron-right"></i> Cardiology</li>
+                <li><i class="fa fa-chevron-right"></i> Gastroenterology</li>
+                <li><i class="fa fa-chevron-right"></i> Endocrinology</li>
+                <li><i class="fa fa-chevron-right"></i> Nephrology</li>
+                <li><i class="fa fa-chevron-right"></i> Oncology</li>
+                <li><i class="fa fa-chevron-right"></i> Dermatology</li>
+                <li><i class="fa fa-chevron-right"></i> Psychiatry</li>
+              </ul>
+            </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon"><i class="icofont-heartbeat"></i></div>
+            <h4 class="title"><a href="">Diagnostic Services</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style: none;">
+                <li><i class="fa fa-chevron-right"></i> MRI Scan</li> 
+                <li><i class="fa fa-chevron-right"></i> CT Scan</li>
+                <li><i class="fa fa-chevron-right"></i> Digital X-Ray</li>
+                <li><i class="fa fa-chevron-right"></i> Digital Mammography</li>
+                <li><i class="fa fa-chevron-right"></i> Ultrasound</li>
+                <li><i class="fa fa-chevron-right"></i> Echo Cardiograph</li>
+                <li><i class="fa fa-chevron-right"></i> Endoscopy</li>
+                <li><i class="fa fa-chevron-right"></i> Resting And Stress ECG</li>
+              </ul>
+            </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon"><i class="icofont-disabled"></i></div>
+            <h4 class="title"><a href="">Pharmacy</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style: none;">
+                <li><i class="fa fa-chevron-right"></i> We are open 24/7</li>
+                <li><i class="fa fa-chevron-right"></i> Variety of drugs in stock</li>
+              </ul>
+            </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="icofont-autism"></i></div>
+            <h4 class="title"><a href="">Laboratory Investigation</a></h4>
+            <p class="description">
+              <ul style="text-align: left; list-style: none;">
+                <li><i class="fa fa-chevron-right"></i> We open 24/7</li> 
+                <li><i class="fa fa-chevron-right"></i> We do test based on request</li> 
+                <li><i class="fa fa-chevron-right"></i> We also receive samples from other hospital</li> 
+              </ul>
+            </p>
+          </div>
+        </div>
+        <p><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
+
+        <p><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
+        <p> <b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
       </div>
-      <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-        <div class="icon"><i class="icofont-disabled"></i></div>
-        <h4 class="title"><a href="">Pharmacy</a></h4>
-        <p class="description">
-          <p>We are open 24/7</p>
-          <p>Variety of drugs in stock</p>
-        </p>
-      </div>
-      <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
-        <div class="icon"><i class="icofont-autism"></i></div>
-        <h4 class="title"><a href="">Laboratory Investigation</a></h4>
-        <p class="description">
-          <p>We open 24/7</p> 
-          <p>We do test based on request</p> 
-          <p>We also receive samples from other hospital</p> 
-        </p>
-      </div>
-    </div>
-    <p><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
+    </section><!-- End Services Section -->
+    <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+      <i class="fa fa-whatsapp my-float"></i>
+    </a>
+  </main><!-- End #main -->
 
-    <p><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
-    <p> <b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
-  </div>
-</section><!-- End Services Section -->
-</main><!-- End #main -->
+  <?php include 'inc/footer.inc.php'; ?>
 
-<!-- ======= Footer ======= -->
-<footer id="footer">
-  <div class="container">
-    <div class="copyright">
-      &copy; Copyright <strong><span>Foresight Specialist Clinics and Diagnostic Services</span></strong>. All Rights Reserved
-    </div>
-    <div class="credits">
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-      Designed by <a href="">Ihmami Tech Solution</a>
-    </div>
-  </div>
-</footer><!-- End Footer -->
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
 
-<div id="preloader"></div>
-<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-<!-- Vendor JS Files -->
-<script src="assets/vendor/jquery/jquery.min.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-<script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src="assets/vendor/counterup/counterup.min.js"></script>
-<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-<script src="assets/vendor/venobox/venobox.min.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
-
-<!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
 
 </body>
 
