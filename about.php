@@ -67,8 +67,8 @@
       <section class="inner-page">
         <div class="container">
          <h2 class="text-center">About Us</h2>
-         <p class="text-justify">Foresight Specialist Clinics and Diagnostic Services is a chain of private hospitals in Nigeria. FSCDS currently has 2 operational sites in Abuja and Gombe State with a 3rd site in Sokoto under Constructions. Each hospital is staffed by committed personnel who exemplify our <b>I CARE</b> values: integrity, compassion, accountability, respect and excellence. Patient safety, quality and service are our highest priorities. Every day at FSCDS, physicians, nurses and staff go beyond the science of exceptional medicine to bring patients breakthroughs in the art of caring. We have a wide range of experts to meet the medical needs of our clients. We also have partnership with more than 20 leading hospitals across the globe. This help us to deliver effective and efficient care by the use of multi-displinary efforts through Telemedicine and Tele radiology. </p>
-         <p class="text-justify">
+         <p class="text-justify" style="line-height: 32px;">Foresight Specialist Clinics and Diagnostic Services is a chain of private hospitals in Nigeria. FSCDS currently has 2 operational sites in Abuja and Gombe State with a 3rd site in Sokoto under Constructions. Each hospital is staffed by committed personnel who exemplify our <b>I CARE</b> values: integrity, compassion, accountability, respect and excellence. Patient safety, quality and service are our highest priorities. Every day at FSCDS, physicians, nurses and staff go beyond the science of exceptional medicine to bring patients breakthroughs in the art of caring. We have a wide range of experts to meet the medical needs of our clients. We also have partnership with more than 20 leading hospitals across the globe. This help us to deliver effective and efficient care by the use of multi-displinary efforts through Telemedicine and Tele radiology. </p>
+         <p class="text-justify" style="line-height: 32px;">
           Foresight Specialist clinic and Diagnostic Services is a Subsidiary of Foresight Healthcare limited, Foresight Healthcare was founded in 2016 by Dr Shamsuddeen Aliyu. Dr Aliyu was shocked by the growing number of Nigerians travelling abroad in search of a better healthcare, which is not unconnected to the dilapidated nature of our healthcare facilities. He thought of how he can be part of the changes he wants to see in Nigerian Healthcare System and how Nigeria can benefit from this giant industry. To understand the entire system of medical tourism, Foresight Healthcare Limited started with Medical travel facilitation, which gives the company an advantage to understand the entire value chain of Medical Tourism. The goal of the company is to make Nigeria one of the medical Tourist destination. 
         </p>
         <p class="text-justify">
@@ -77,7 +77,7 @@
         <p class="text-justify"><strong>Vision:</strong> Our vision is to become one of the leading healthcare providers in Nigeria.</p>
         <p class="text-justify"><strong>Mission statement:</strong> It is our goal to provide our CLIENTS with superior quality healthcare services, make our EMPLOYEES proud, and our INVESTORS seek for long-term returns.</p>
         <h4>OUR VALUES</h4>
-        <ul>
+        <ul style="line-height: 32px;">
           <li>Service - We provide every patient and his or her loved ones with unparalleled service in an environment that is both responsive and healing. We believe that the client comes first.</li>
           <li>Compassion: We provide care with dignity, concern, and kindness</li>
           <li>Excellence - We want our client experience at FSCDS to be different because it is the BEST. We ask for our clients' opinions and act on their suggestions, in order to exceed the expectations of excellence.</li>
