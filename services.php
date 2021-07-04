@@ -28,6 +28,7 @@
 
   <link rel="stylesheet" href="fontawesome-free/css/all.min.css">
   <link href="assets/css/style.css" rel="stylesheet">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 </head>
 
@@ -152,13 +153,13 @@
             </p>
           </div>
         </div>
-        <p><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
+        <p style="text-align: justify; line-height: 32px;"><b>Theatre:</b> Our Theatre has brand new ultra modern machines from the best brands in the world, ranging from electrosurgical equipment, endoscopy, fluoroscopy etc. which aids our experts to deliver effectively. We employ multiple safety measures to guarantee safe surgery.</p>
 
-        <p><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
-        <p> <b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
+        <p style="text-align: justify; line-height: 32px;"><b>Pharmacy:</b> We have variety of drugs in stock. There is Pharmacist on duty round the clock, and assurance of correct prescriptions, dosing, counseling before administration of medications is dependable because all medicines are dispensed only by a licensed Pharmacist. </p>
+        <p style="text-align: justify; line-height: 32px;"><b>Laboratory:</b> Our laboratory is one of the most-equipped in the country. We are furnished with standard testing equipment as well as high-tech systems for a wide range of tests. We also have proficient Lab scientists and technicians who carry out accurate test according to international standards.</p>
       </div>
     </section><!-- End Services Section -->
-    <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=+2348038969767&text=Hello%21%20Mahmud Bakale" class="float" target="_blank">
       <i class="fa fa-whatsapp my-float"></i>
     </a>
   </main><!-- End #main -->

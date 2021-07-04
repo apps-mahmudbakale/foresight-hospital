@@ -179,19 +179,19 @@
 				</div>
 
 				<div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
-					<a href="assets/img/gallery/gallery-1.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-1.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-2.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-2.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-3.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-3.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-4.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-4.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-5.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-5.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-6.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-6.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-7.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-7.jpg" alt=""></a>
-					<a href="assets/img/gallery/gallery-8.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-8.jpg" alt=""></a>
+					<a href="assets/img/gallery/gallery-9.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-9.jpeg" alt=""></a>
+					<a href="assets/img/gallery/gallery-10.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-10.jpeg" alt=""></a>
+					<a href="assets/img/gallery/1.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/1.jpeg" alt=""></a>
+					<a href="assets/img/gallery/2.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/2.jpeg" alt=""></a>
+					<a href="assets/img/gallery/3.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/3.jpeg" alt=""></a>
+					<a href="assets/img/gallery/4.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/4.jpeg" alt=""></a>
+					<a href="assets/img/gallery/5.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/5.jpeg" alt=""></a>
+					<a href="assets/img/gallery/6.jpeg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/6.jpeg" alt=""></a>
 				</div>
 
 			</div>
 		</section><!-- End Gallery Section -->
-		<!-- ======= Contact Section ======= -->
+		<!-- ======= Contact Sectio2.jpeg
 		<section id="contact" class="contact">
 			<div class="container">
 
