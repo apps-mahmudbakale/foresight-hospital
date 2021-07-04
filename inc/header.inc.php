@@ -2,10 +2,10 @@
 <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
 	<div class="container d-flex align-items-center justify-content-between">
 		<div class="d-flex align-items-center">
-			<i class="icofont-clock-time"></i> Monday - Saturday, 8AM to 10PM
+			<i class="icofont-clock-time"></i> Opens Monday - Sunday, 24Hours
 		</div>
 		<div class="d-flex align-items-center">
-			<i class="icofont-phone"></i> Call us now +234 (0)7044924324
+			<i class="icofont-phone"></i> Call us now  (Abuja) +234 (0)7044924324, (Gombe) +234 (0)8029433148
 		</div>
 	</div>
 </div>

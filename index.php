@@ -95,7 +95,7 @@
 				<div class="text-center">
 					<h3>In an emergency? Need help now?</h3>
 					<p> In Case of An Emergencies.</p>
-					<a class="cta-btn scrollto" href="#appointment">Make an Make an Appointment</a>
+					<a class="cta-btn scrollto" href="#appointment"> Book an Appointment</a>
 				</div>
 
 			</div>
@@ -108,8 +108,8 @@
 			<div class="container" data-aos="fade-up">
 
 				<div class="section-title">
-					<h2>Make an Appointment</h2>
-					<p>Please Fill In to Make An Appointment</p>
+					<h2>Book an Appointment</h2>
+					<p>Please Fill In to Book An Appointment</p>
 				</div>
 
 				<form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
@@ -134,20 +134,18 @@
 						</div>
 						<div class="col-md-4 form-group">
 							<select name="department" id="department" class="form-control">
-								<option value="">Select Department</option>
-								<option value="Clinic">Clinic</option>
-								<option value="Surgery">Surgery</option>
-								<option value="Clinical Medicine">Clinical Medicine</option>
-								<option value="Diagnostic Services & Laboratory">Diagnostic Services & Laboratory</option>
+								<option value="">Select Center</option>
+								<option value="Abuja">Abuja Center</option>
+								<option value="Gombe">Gombe Center</option>
 							</select>
 							<div class="validate"></div>
 						</div>
 						<div class="col-md-4 form-group">
 							<select name="doctor" id="doctor" class="form-control">
-								<option value="">Select Doctor</option>
-								<option value="Dr. Shamsuddeen">Dr. Shamsuddeen Aliyu</option>
-								<option value="Dr. Jalaluddeen">Dr. Jalaluddeen M. Bashir</option>
-								<option value="Dr. Chuks Okolouta">Dr. Chuks Okolouta</option>
+								<option value="">Select Services</option>
+								<option value="Clinical Services">Clinical Services</option>
+								<option value="Diagnostic Services">Dignostic Services</option>
+
 							</select>
 							<div class="validate"></div>
 						</div>
@@ -175,7 +173,6 @@
 
 				<div class="section-title">
 					<h2>Gallery</h2>
-					<!-- p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
 				</div>
 
 				<div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
@@ -191,7 +188,7 @@
 
 			</div>
 		</section><!-- End Gallery Section -->
-		<!-- ======= Contact Sectio2.jpeg
+		<!-- ======= Contact Sectio2.jpeg -->
 		<section id="contact" class="contact">
 			<div class="container">
 
@@ -213,6 +210,7 @@
 									<i class="bx bx-map"></i>
 									<h3>Our Address</h3>
 									<p>NO.7 THABA TSEKA STREET WUSE 2 ABUJA</p>
+									<p>OFF. AJUJI WAZIRI ROAD, BEHIND GOMBE LGA INEC OFFICE FEDERAL LOW COST GOMBE.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
@@ -226,7 +224,7 @@
 								<div class="info-box mt-4">
 									<i class="bx bx-phone-call"></i>
 									<h3>Call Us</h3>
-									<p>+234(0)7044924324<br>+234(0)7044924324</p>
+									<p>+234(0)7044924324(Abuja)<br>+234(0)8029433148(Gombe)</p>
 								</div>
 							</div>
 						</div>
