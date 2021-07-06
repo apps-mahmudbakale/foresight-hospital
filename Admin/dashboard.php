@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>AdminLTE 3 | Dashboard 2</title>
+  <title>Foresight Specialist Clinics | Dashboard </title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
@@ -28,23 +28,7 @@
         <li class="nav-item d-none d-sm-inline-block">
           <a href="index3.html" class="nav-link">Home</a>
         </li>
-        <li class="nav-item d-none d-sm-inline-block">
-          <a href="#" class="nav-link">Contact</a>
-        </li>
       </ul>
-
-      <!-- SEARCH FORM -->
-      <form class="form-inline ml-3">
-        <div class="input-group input-group-sm">
-          <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search">
-          <div class="input-group-append">
-            <button class="btn btn-navbar" type="submit">
-              <i class="fas fa-search"></i>
-            </button>
-          </div>
-        </div>
-      </form>
-
       <!-- Right navbar links -->
       <ul class="navbar-nav ml-auto">
         <!-- Messages Dropdown Menu -->
@@ -146,7 +130,7 @@
         <a href="index3.html" class="brand-link">
           <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
           style="opacity: .8">
-          <span class="brand-text font-weight-light">AdminLTE 3</span>
+          <span class="brand-text font-weight-light">Foresight</span>
         </a>
 
         <!-- Sidebar -->
@@ -157,7 +141,7 @@
               <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-              <a href="#" class="d-block">Alexander Pierce</a>
+              <a href="#" class="d-block">Admin</a>
             </div>
           </div>
 
@@ -166,49 +150,29 @@
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
            with font-awesome or any other icon font library -->
-           <li class="nav-item has-treeview menu-open">
-            <a href="#" class="nav-link active">
+           <li class="nav-item">
+            <a href="dashboard.php" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Dashboard
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="./index.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v1</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index2.html" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v2</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
-                </a>
-              </li>
-            </ul>
           </li>
           <li class="nav-item">
-            <a href="pages/widgets.html" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="" class="nav-link">
+              <i class="nav-icon fas fa-users"></i>
               <p>
-                Widgets
-                <span class="right badge badge-danger">New</span>
+                Users
+                <span class="right badge badge-danger">0</span>
               </p>
             </a>
           </li>
-          <li class="nav-item has-treeview">
+          <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Layout Options
+                Appointments
                 <i class="fas fa-angle-left right"></i>
                 <span class="badge badge-info right">6</span>
               </p>
