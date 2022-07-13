@@ -9,11 +9,11 @@ body {
 }
 
 a {
-  color: #3fbbc0;
+  color: #2b61ac;
 }
 
 a:hover {
-  color: #65c9cd;
+  color: #2b61ac;
   text-decoration: none;
 }
 
@@ -86,13 +86,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #3fbbc0;
+  background:#2b61ac;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #5ec6ca;
+  background: #2b61ac;
   color: #fff;
 }
 
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #3fbbc0;
+  background: #2b61ac;
   color: #fff;
   height: 40px;
   font-size: 16px;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #3fbbc0;
+  color: #2b61ac;
 }
 
 .nav-menu .drop-down ul {
@@ -627,7 +627,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #3fbbc0;
+  background: #2b61ac;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -922,7 +922,7 @@ section {
   background: #fff;
   border-radius: 50%;
   transition: 0.5s;
-  color: #3fbbc0;
+  color: #2b61ac;
   font-size: 40px;
   overflow: hidden;
   padding-top: 20px;
@@ -956,7 +956,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #3fbbc0;
+  background: #2b61ac;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1686,7 +1686,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #3fbbc0;
+  background: #2b61ac;
   color: #fff;
   line-height: 1;
   padding: 8px 0;

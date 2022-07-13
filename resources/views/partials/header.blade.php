@@ -14,14 +14,14 @@
 <header id="header" class="fixed-top">
 	<div class="container d-flex align-items-center">
 
-		<a href="index.html" class="logo mr-auto"><img src="assets/img/hh.jpeg" alt=""></a>
+		<a href="/" class="logo mr-auto"><img src="assets/img/hh.jpeg" alt=""></a>
 		
 
 		<nav class="nav-menu d-none d-lg-block">
 			<ul>
 				<li class="active"><a href="index.php"> <i class="fa fa-home"></i> Home</a></li>
-				<li><a href="about.php"><i class="fa fa-question-circle"></i> About</a></li>
-				<li><a href="services.php"><i class="fa fa-cogs"></i> Services</a></li>
+				<li><a href="{{route('about')}}"><i class="fa fa-question-circle"></i> About</a></li>
+				<li><a href="{{route('services')}}"><i class="fa fa-cogs"></i> Services</a></li>
 				<li><a href="doctors.php"><i class="fa fa-users"></i> Doctors</a></li>
 				<li><a href="blog.php"><i class="fa fa-comments"></i> Blog</a></li>
 				<li><a href="index.php#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
