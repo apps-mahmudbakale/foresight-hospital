@@ -24,3 +24,11 @@ Route::get('/about', function () {
 Route::get('/services', function () {
     return view('services');
 })->name('services');
+
+Route::get('/doctors', function () {
+    return view('doctors');
+})->name('doctors');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

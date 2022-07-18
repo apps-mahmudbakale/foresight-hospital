@@ -6,11 +6,11 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="footer-info">
-            <h3>Foresight Premier Hospital</h3>
+            <h3>Foresight Premier Hospitals</h3>
             <p>
               NO.7 THABA TSEKA STREET WUSE 2 ABUJA<br>
               <strong>Phone:</strong> 234(0)7044924324<br>+234(0)9049309442<br>
-              <strong>Email:</strong> info@foresightclinics.com<br>contact@foresightclinics.com<br>
+              <strong>Email:</strong> info@foresighthospitals.com<br>contact@foresightclinics.com<br>
             </p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -23,7 +23,7 @@
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="footer-info">
-            <h3>Foresight Premier Hospital</h3>
+            <h3>Foresight Premier Hospitals</h3>
             <p>
              OFF. AJUJI WAZIRI ROAD, BEHIND GOMBE LGA INEC OFFICE FED. LOW COST GOMBE.<br>
              <strong>Phone:</strong> 234(0)8029433148<br>+234(0)8025552844<br>

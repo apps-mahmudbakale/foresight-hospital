@@ -22,8 +22,8 @@
 				<li class="active"><a href="index.php"> <i class="fa fa-home"></i> Home</a></li>
 				<li><a href="{{route('about')}}"><i class="fa fa-question-circle"></i> About</a></li>
 				<li><a href="{{route('services')}}"><i class="fa fa-cogs"></i> Services</a></li>
-				<li><a href="doctors.php"><i class="fa fa-users"></i> Doctors</a></li>
-				<li><a href="blog.php"><i class="fa fa-comments"></i> Blog</a></li>
+				<li><a href="{{route('doctors')}}"><i class="fa fa-users"></i> Doctors</a></li>
+				<li><a href=""><i class="fa fa-comments"></i> Blog</a></li>
 				<li><a href="index.php#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
 
 			</ul>
