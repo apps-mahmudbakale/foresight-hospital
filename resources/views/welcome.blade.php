@@ -234,7 +234,7 @@
                                 <div class="info-box mt-4">
                                     <i class="bx bx-envelope"></i>
                                     <h3>Email Us</h3>
-                                    <p>info@foresightclinics.com<br>contact@foresightclinics.com</p>
+                                    <p>info@foresighthospitals.com</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
