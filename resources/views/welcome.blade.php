@@ -193,14 +193,14 @@
                             src="assets/img/gallery/1.jpeg" alt=""></a>
                     <a href="assets/img/gallery/2.jpeg" class="venobox" data-gall="gallery-carousel"><img
                             src="assets/img/gallery/2.jpeg" alt=""></a>
-                    <a href="assets/img/gallery/3.jpeg" class="venobox" data-gall="gallery-carousel"><img
-                            src="assets/img/gallery/3.jpeg" alt=""></a>
+                    {{-- <a href="assets/img/gallery/3.jpeg" class="venobox" data-gall="gallery-carousel"><img
+                            src="assets/img/gallery/3.jpeg" alt=""></a> --}}
                     <a href="assets/img/gallery/4.jpeg" class="venobox" data-gall="gallery-carousel"><img
                             src="assets/img/gallery/4.jpeg" alt=""></a>
                     <a href="assets/img/gallery/5.jpeg" class="venobox" data-gall="gallery-carousel"><img
                             src="assets/img/gallery/5.jpeg" alt=""></a>
-                    <a href="assets/img/gallery/6.jpeg" class="venobox" data-gall="gallery-carousel"><img
-                            src="assets/img/gallery/6.jpeg" alt=""></a>
+                    {{-- <a href="assets/img/gallery/6.jpeg" class="venobox" data-gall="gallery-carousel"><img
+                            src="assets/img/gallery/6.jpeg" alt=""></a> --}}
                 </div>
 
             </div>

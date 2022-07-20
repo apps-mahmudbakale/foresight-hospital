@@ -42,6 +42,7 @@
                         @guest
         
                         @else
+                        <li class="nav-item"><a href="{{route('posts.index')}}" class="nav-link">Users</a></li>
                         <li class="nav-item"><a href="{{route('posts.index')}}" class="nav-link">Posts</a></li>
                             <li class="nav-item dropdown">
                                 <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
