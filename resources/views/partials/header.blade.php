@@ -23,7 +23,7 @@
 				<li><a href="{{route('about')}}"><i class="fa fa-question-circle"></i> About</a></li>
 				<li><a href="{{route('services')}}"><i class="fa fa-cogs"></i> Services</a></li>
 				<li><a href="{{route('doctors')}}"><i class="fa fa-users"></i> Doctors</a></li>
-				<li><a href=""><i class="fa fa-comments"></i> Blog</a></li>
+				<li><a href="{{route('blog')}}"><i class="fa fa-comments"></i> Blog</a></li>
 				<li><a href="index.php#contact"><i class="fa fa-phone-square"></i> Contact</a></li>
 
 			</ul>
