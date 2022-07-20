@@ -14,7 +14,7 @@
 <header id="header" class="fixed-top">
 	<div class="container d-flex align-items-center">
 
-		<a href="/" class="logo mr-auto"><img src="assets/img/hh.jpeg" alt=""></a>
+		<a href="/" class="logo mr-auto"><img src="{{asset('assets/img/hh.jpeg')}}" alt=""></a>
 		
 
 		<nav class="nav-menu d-none d-lg-block">
