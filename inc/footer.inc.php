@@ -6,7 +6,7 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="footer-info">
-            <h3>Foresight Specialist Clinics</h3>
+            <h3>Foresight Premier Hospitals</h3>
             <p>
               NO.7 THABA TSEKA STREET WUSE 2 ABUJA<br>
               <strong>Phone:</strong> 234(0)7044924324<br>+234(0)9049309442<br>
@@ -23,7 +23,7 @@
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="footer-info">
-            <h3>Foresight Specialist Clinics</h3>
+            <h3>Foresight Premier Hospitals</h3>
             <p>
              OFF. AJUJI WAZIRI ROAD, BEHIND GOMBE LGA INEC OFFICE FED. LOW COST GOMBE.<br>
              <strong>Phone:</strong> 234(0)8029433148<br>+234(0)8025552844<br>
@@ -69,11 +69,11 @@
 
 <div class="container">
   <div class="copyright">
-    &copy; Copyright <strong><span>Foresight Specialist Clinics and Diagnostic Services</span></strong>. All Rights Reserved
+    &copy; Copyright <strong><span>Foresight Premier Hospitals</span></strong>. All Rights Reserved
   </div>
   <div class="credits">
 
-    Designed by <a href="">Ihmami Tech Solution</a>
+    Designed by <a href="">Bnetworks Tech Solution</a>
   </div>
 </div>
 </footer><!-- End Footer -->

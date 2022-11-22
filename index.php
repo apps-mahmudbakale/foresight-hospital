@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-	<title>Foresight Specialist Clinic and Diagnostic Services | Home</title>
+	<title>Foresight Premier Hospitals | Home</title>
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 
@@ -48,7 +48,7 @@
 				<!-- Slide 1 -->
 				<div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
 					<div class="container">
-						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<h2>Welcome to <span>Foresight Premier Hospitals</span></h2>
 						<p>Making our client happy by delivering effective and efficient care</p>
 					</div>
 				</div>
@@ -56,7 +56,7 @@
 				<!-- Slide 2 -->
 				<div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
 					<div class="container">
-						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<h2>Welcome to <span>Foresight Premier Hospitals</span></h2>
 						<p>Making our client happy by delivering effective and efficient care</p>
 					</div>
 				</div>
@@ -64,7 +64,7 @@
 				<!-- Slide 3 -->
 				<div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
 					<div class="container">
-						<h2>Welcome to <span>Foresight Specialist Clinics and Diagnostic Services</span></h2>
+						<h2>Welcome to <span>Foresight Premier Hospitals</span></h2>
 						<p>Making our client happy by delivering effective and efficient care</p>
 					</div>
 				</div>
